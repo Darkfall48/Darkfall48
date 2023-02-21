@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
-  <h2>My Skills ✨</h2>
+  <h2>✨ My Skills ✨</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,jquery,postman,html,css,sass,javascript,typescript,redux,reactivex,react,angular,vue,babel,nodejs,express,regex,mongodb,mysql,php,figma,bootstrap,materialui,ae,pr,au,ps,ai,xd,arduino,cs,cpp,autocad,bash,powershell,vite,blender,matlab,java,eclipse,unity,gamemakerstudio,webpack,visualstudio,vscode" />
   </a>
 </div>
 
 <div align="center">
-  <h2>Some Stats 👨🏻‍💻</h2>
+  <h2>👨🏻‍💻 Some Stats 👨🏻‍💻</h2>
   <a align="center" href="https://github.com/darkfall48">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkfall48&layout=compact&theme=dracula&hide_border=true" />
   </a>
@@ -23,14 +23,14 @@
 </div>
 
 <div align="center">
-    <h2>Trophies 🏆</h2>
+    <h2>🏆 Trophies 🏆</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=darkfall48&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET&no-frame=true&no-bg=false&margin-w=15&column=4&row=1" />
   </a>
 </div>
 
 <div align="center">
-      <h2>Let's Connect 👾</h2>
+      <h2>👾 Let's Connect 👾</h2>
   <a href="https://www.linkedin.com/in/sidneysebban/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>

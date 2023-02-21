@@ -7,27 +7,28 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,jquery,postman,html,css,sass,javascript,typescript,redux,reactivex,react,angular,vue,babel,nodejs,express,regex,mongodb,mysql,php,figma,bootstrap,materialui,ae,pr,au,ps,ai,xd,arduino,cs,cpp,autocad,bash,powershell,vite,blender,matlab,java,eclipse,unity,gamemakerstudio,discord,bots,webpack,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,jquery,postman,html,css,sass,javascript,typescript,redux,reactivex,react,angular,vue,babel,nodejs,express,regex,mongodb,mysql,php,figma,bootstrap,materialui,ae,pr,au,ps,ai,xd,arduino,cs,cpp,autocad,bash,powershell,vite,blender,matlab,java,eclipse,unity,gamemakerstudio,webpack,visualstudio,vscode" />
   </a>
 </p>
 
 ## Some Stats 👨🏻‍💻
 
-### Global Stats
+<a href="https://github.com/darkfall48">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkfall48&layout=compact&theme=dracula&hide_border=true" />
+</a>
+
 <a href="https://github.com/darkfall48">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkfall48&show_icons=true&count_private=true&hide=contribs,prs&theme=dracula&hide_border=true" />
 </a>
 
+<!--
 ### Repo's Stats
 <a href="https://github.com/darkfall48">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=darkfall48&repo=Ex-Mister-Bitcoin-Vue&theme=dracula&hide_border=true" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=darkfall48&repo=Ex-Mister-Bitcoin-Angular&theme=dracula&hide_border=true" />
 </a>
+!-->
 
-### Languages Stats
-<a href="https://github.com/darkfall48">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkfall48&layout=compact&theme=dracula&hide_border=true" />
-</a>
 
 ## Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=darkfall48&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET&no-frame=true&no-bg=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)

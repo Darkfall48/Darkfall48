@@ -23,14 +23,14 @@
 </div>
 
 <div align="center">
-    <h2>🏆 Trophies 🏆</h2>
+  <h2>🏆 Trophies 🏆</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=darkfall48&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET&no-frame=true&no-bg=false&margin-w=15&column=4&row=1" />
   </a>
 </div>
 
 <div align="center">
-      <h2>👾 Let's Connect 👾</h2>
+  <h2>👾 Let's Connect 👾</h2>
   <a href="https://www.linkedin.com/in/sidneysebban/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>

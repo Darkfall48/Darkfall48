@@ -29,9 +29,13 @@
 </a>
 !-->
 
-
 ## Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=darkfall48&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET&no-frame=true&no-bg=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="right">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=darkfall48&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET&no-frame=true&no-bg=false&margin-w=15" />
+  </a>
+</p>
 
 ## Let's Connect
 

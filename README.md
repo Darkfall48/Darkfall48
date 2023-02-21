@@ -3,8 +3,6 @@
   <img src="https://profile-counter.glitch.me/darkfall48/count.svg" />
 </p>
 
-### Hi there 👋
-
 ## My Skills
 
 <p align="center">
@@ -31,19 +29,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkfall48&layout=compact&theme=dracula&hide_border=true" />
 </a>
 
-### Trophies 🏆
+## Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=darkfall48&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET&no-frame=true&no-bg=false&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Let's Connect
+## Let's Connect
 
 <p align="left">
   
   <a href="https://www.linkedin.com/in/sidneysebban/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="https://www.instagram.com/darkfall48/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
 </p>
